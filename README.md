@@ -42,10 +42,10 @@
 ### I am also helping a lot of Flutter Developers in their development journey. So, if you need any help, let me know on any of the provided socials and if I helped you in any way, please consider buying me a coffee here. Thanks
 
 
-<div align="center">
-    <a href="https://buymeacoffee.com/iamtvirani" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<br>
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/virani-tulsi-7547vp) 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Viranitulsi07?t=-ZbXSIODX6Alh47kd_khtg&s=09) 
+
+<div align="center">
+    <a href="https://buymeacoffee.com/iamtvirani" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
