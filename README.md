@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtvirani&label=Views&color=green&style=plastic&style=for-the-badge" alt="iamtvirani" /> </p>
 
 ## 👩🏻‍💻 Stackover Flow
-[![LinkedIn](https://img.shields.io/badge/Stackoverflow-0077B5?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20909255/tulsi-virani)
+[![Stackover Flow](https://img.shields.io/badge/Stackoverflow-0077B5?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20909255/tulsi-virani)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/virani-tulsi-7547vp) 
