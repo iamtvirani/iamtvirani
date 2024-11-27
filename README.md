@@ -3,6 +3,24 @@
          height="45"
          width="45" /> I'm Tulsi Virani</h1>
 
+#### Some things I have extensive experience with:
+<img align="right" alt="GIF" src="giphy.gif" width="380" height="250" />
+   🔖 Flutter UI/UX <br>
+   🔖 Flutter Backend with Firebase <br>
+   🔖 Flutter RESTful API Integration <br>
+   🔖 Firebase Cloud Functions using NodeJS <br>
+   🔖 Firebase Cloud Messaging using Cloud Functions <br>
+   🔖 Android & iOS development with Native integrations <br>
+   🔖 State Management: Bloc, Provider, Riverpod and GetX <br>
+   🔖 Version Control System: Git, GitHub and GitLab <br>
+   🔖 Deployment on Play Store and App Store <br>
+   🔖 Google Admob Integration <br>
+   🔖 Facebook Ad Integration <br>
+   🔖 In-app purchases and Subscriptions <br>
+   🔖 Payment Gateways: Paystack and Stripe <br>
+<br>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtvirani&label=Views&color=green&style=plastic&style=for-the-badge" alt="iamtvirani" /> </p>
 
 ## 👩🏻‍💻 Stackover Flow
