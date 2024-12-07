@@ -39,7 +39,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=iamtvirani&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### I’m passionate about supporting fellow Flutter developers on their journey. If you ever need assistance, feel free to reach out to me through any of my socials. And if I’ve been able to help you in any way, consider buying me a coffee here—your support means the world to me. Thank you!
+### I’m passionate about supporting fellow Flutter developers on their journey. If you ever need assistance, feel free to reach out to me through any of my socials. And if I’ve been able to help you in any way, consider buying me a coffee here your support means the world to me. Thank you!
 
 
 ## 🌐 Socials
